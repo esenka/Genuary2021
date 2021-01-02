@@ -1,13 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////
 // Audio reactive code that associate audio frequency intensity from microphone with 
 // size of circles and lines. The circles and lines takes the color from the art image 
-// in the background. 
-// Author: Elio Ramos 2018(aka garabatospr@instagram)
+// in the background. Many thanks to Elios Ramos for the original idea and the inspiration.
 // Licensed under Creative Commons 0 Universal 1.0
-// Public Domain. Feel free to do whatever you want with this code. 
-// If you do use it,I would like to see what you did. 
-// Send me an email to mecobi@gmail.com
-//////////////////////////////////////////////////////////////////////////////////////
+
 
 var img;
 
